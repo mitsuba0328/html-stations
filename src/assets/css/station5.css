@@ -20,13 +20,11 @@ img.card__img-top {
 .header {
   background-color: #ffffff;
   height: 80px;
-  width: 800px;
-}
-.body {
-  background-color: #c4c4c4;
 }
 .footer {
   background-color: #ffffff;
   height: 80px;
-  width: 800px;
+}
+body {
+  background-color: #c4c4c4;
 }
